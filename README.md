@@ -1,5 +1,11 @@
-### Hi there 👋
+# 👋 Hello world! I'm deesiigneer
+- I live in Donetsk
+- 🐍 Favourite languge - Python
+- 💬 Contact me:
 
+![telegram](https://cdn.icon-icons.com/icons2/923/PNG/32/telegram_icon-icons.com_72055.png) [@deesiigneer](https://t.me/deesiigneer)
+
+![discord](https://cdn.icon-icons.com/icons2/1476/PNG/32/discord_101785.png) [Dees#7736](https://discordapp.com/users/262632724928397312)
 <!--
 **deesiigneer/deesiigneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
